@@ -20,7 +20,7 @@ We also want the model to keep it simple as it's generally accepted that simpler
 Unless of course the complex model retuns better predictions.
 #### **ANOTHER NOTE: you can easily use yfinance to download other indexes/stocks/commodities/etc. For example:
 
-'''python
+```
 import yfinance
 raw_data = yfinance.download (tickers = "^GSPC ^FTSE ^N225 ^GDAXI", start = "1994-01-07", end = "2019-09-27", interval = "1d", group_by = 'ticker', auto_adjust = True, treads = True)
-'''
+```
