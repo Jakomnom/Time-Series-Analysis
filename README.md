@@ -1,5 +1,8 @@
 # Time-Series-Analysis
 
+### **NOTE: Statsmodels library has been updated since the time when the code was created. Can't be bothered to update atm, but the concept is still valid.**
+
+
 In the field of time series analysis, a common and crucial area of focus revolves around assessing the stability of financial markets
 and evaluating the efficiency of investment portfolios. By studying time series data related to financial instruments like stocks,
 bonds, or commodities, analysts aim to uncover patterns and trends that can provide insights into market behavior.
